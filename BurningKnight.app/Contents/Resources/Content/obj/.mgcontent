@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Fonts/fnt.spritefont</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Fonts/large.png</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Fonts/small.png</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/airhorn.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/bomb_placed.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/clap.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/dead1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/dead2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/dead3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/enemy_alert.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/explosion.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/fireball_cast.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/fireball_death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/gunner_charge.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/health_up.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/hi.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/hurt1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/hurt2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/active.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/active_charged.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/axe/catch.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/axe/throw.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/bag.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/bomb.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/bow/attack.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/cage_key_used.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/charge.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/coin.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/dice/bad.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/dice/break.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/dice/good.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/discord.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/emerald.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/gold_coin.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/gun/burst.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/gun/fire/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/gun/fire/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/gun/machine.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/gun/pickup.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/gun/switch.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/heart.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/key.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/key_pickup.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/magic/lava/lava_appear.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/magic/lava/lava_cast.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/magic/pickup.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/magic/switch.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/magic/web/appear.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/magic/web/cast.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/mana.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/map.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/meatguy/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/meatguy/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/meatguy/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/meatguy/4.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/nocash.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/orbitals.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/pickup.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/platinum_coin.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/purchase.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/reroll.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/shield.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/shotgun/fire/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/shotgun/fire/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/shotgun/reload/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/shotgun/reload/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/silver_coin.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/sword/attack/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/sword/attack/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/sword/attack/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/sword/attack/4.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/sword/cooldown.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/sword/hit/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/sword/hit/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/sword/hit/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/sword/hit/wall.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/sword/pickup.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/sword/switch.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/ukulele/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/ukulele/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/ukulele/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/ukulele/4.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/ukulele/5.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/wand/fire.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/item/wand/general.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/chair/break/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/chair/break/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/chest_open.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/cup/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/cup/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/door/bell.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/door/close/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/door/close/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/door/head/fail.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/door/head/success.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/door/open/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/door/open/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/door/open/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/door/open/4.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/door/open/5.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/door/shut.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/explosion/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/explosion/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/explosion/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/lever.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/rain/jungle.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/rain/regular.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/rain/snow.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/rock/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/rock/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/room_cleared.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/scourge_statue.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/snow_break/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/snow_break/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/snow_break/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/spike.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/spike_peaking.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/statue_break.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/stone_statue_break.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/summon_chest.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/teleport/arrive.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/teleport/send.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/tnt.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/turret/fire.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/turret/rotating.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/vending_machine.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/vending_machine_coin.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/well.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/level/well_coin.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/archeolog/death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/archeolog/explosion.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/archeolog/hurt.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bandit/damage.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bandit/death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bee/damage.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bee/shot.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bee/swirly_shot.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/capture.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/fire.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/flame_loop.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/hovering_loop.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/hurt/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/hurt/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/hurt/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/hurt/4.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/hurt/5.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/roar/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/roar/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/roar/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/roar/4.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/syllable/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/syllable/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/syllable/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/syllable/4.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/syllable/5.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/voice.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/word/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/word/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/bk/word/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/clown/bomb/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/clown/bomb/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/clown/death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/clown/hurt.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/dino/death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/dino/hurt.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/dummy.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/fire.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/fire_static.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/fire_wall.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/flower/charging.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/flower/death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/flower/hurt.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/fly_death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/ghost/death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/ghost/hurt_1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/ghost/hurt_2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/gunner/death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/gunner/hurt.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/hive/breaking.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/hive/hurt.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/hive/pop.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/hive/release.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/hive/static.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/hugger_death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/mummy/death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/mummy/hurt.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/oldking/explode.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/oldking/jump.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/oldking/land.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/oldking/shoot.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/pharaoh/shot.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/pharaoh/shot_wave.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/pharaoh/summon.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/skeleton/death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/skeleton/hurt.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/slime/death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/slime/jump_1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/slime/jump_2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/slime/land_1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/slime/land_2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/sniper/focus.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/snowball/death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/snowball/hut.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/snowman/death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/snowman/hurt.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/spelunker/beep.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/wizard/death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/wizard/hurt.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/wombat/fly.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/mob/worm_death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/beet/hide.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/beet/show.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/10.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/11.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/12.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/13.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/14.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/15.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/16.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/17.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/18.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/19.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/20.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/21.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/22.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/23.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/24.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/25.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/26.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/27.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/28.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/29.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/30.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/4.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/5.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/6.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/7.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/8.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/npc/voice/9.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/cursed.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/death.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/descending.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/hurt.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/low_hp_hurt.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/roll.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/shield_hurt.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/default/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/gold/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/gold/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/gold/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/grass/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/grass/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/grass/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/ice/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/ice/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/ice/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/sand/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/sand/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/sand/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/snow/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/snow/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/snow/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/stone/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/stone/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/stone/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/water/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/water/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/water/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/wood/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/wood/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/player/step/wood/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/projectile/reflected/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/projectile/reflected/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/projectile/shell/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/projectile/shell/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/projectile/shell/3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/projectile/wall/1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/projectile/wall/2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/projectile/wall/enemy.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/quck.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/sand.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/scroll.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/secret.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/slime_hurt.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/swap.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/take.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/ui/achievement.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/ui/change_parameter.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/ui/exit.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/ui/goback.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/ui/moving.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/ui/select.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/ui/start.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/unlock.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/villager1.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/villager2.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/villager3.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/villager4.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/villager5.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Sfx/villager6.wav</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Shaders/bk.fx</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Shaders/chasm.fx</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Shaders/entity.fx</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Shaders/fog.fx</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Shaders/item.fx</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Shaders/screen.fx</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Shaders/terrain.fx</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Shaders/ui.fx</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Textures/light.png</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Textures/noise.png</File>
+    <File>D:/a/Lens/Lens/BurningKnight/Content/Textures/rexcellent_logo_pixel.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
